@@ -31,7 +31,7 @@ console.log(Blonde)
 
 
 if (Jason.pv <= 0) {
-    console.log(" Les survivants ont gagnés et Jason est mort. ");
+    console.log(" Les survivants ont gagnés et Jason est mort. ")
 } else {
-    console.log(" Jason a tué tous les survivants. ");
+    console.log(" Jason a tué tous les survivants. ")
 }
